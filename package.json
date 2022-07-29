@@ -16,7 +16,7 @@
     "@vitejs/plugin-legacy": "^2.0.0",
     "@vitejs/plugin-vue2": "^1.1.2",
     "terser": "^5.14.2",
-    "vite": "^3.0.2",
+    "vite": "^3.0.4",
     "vue-cli-plugin-vuetify": "~2.5.1"
   }
 }
