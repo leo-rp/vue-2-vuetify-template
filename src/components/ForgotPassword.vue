@@ -7,9 +7,7 @@
                 <h1 class="mb-2">Forgot Password</h1>
                 <p>We will send a password reset link to the email address of the connected accounted.</p>
               </div>
-              <a href="https://github.com/vuetifyjs/vuetify/releases/tag/v2.6.8" name="https://github.com/vuetifyjs/vuetify/releases/tag/v2.6.8" title="https://github.com/vuetifyjs/vuetify/releases/tag/v2.6.8" target="_blank">
                 <v-img src="/src/assets/logo.svg" alt="vuetify" contain height="200"></v-img>
-              </a>
               <v-form>
                 <v-text-field
                   label="Enter your email address"

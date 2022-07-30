@@ -1,14 +1,14 @@
 <template>
       <v-container class="fill-height" fluid>
         <v-row align="center" justify="center" dense>
-          <v-col cols="12" sm="8" md="4" lg="4">         
+          <v-col cols="12" sm="12" md="12" lg="20">         
             <v-card elevation="0">
               <div class="text-center">
                 <h1 class="mb-2">Login</h1>
               </div>
-              <a href="https://github.com/vuetifyjs/vuetify/releases/tag/v2.6.8" name="https://github.com/vuetifyjs/vuetify/releases/tag/v2.6.8" title="https://github.com/vuetifyjs/vuetify/releases/tag/v2.6.8" target="_blank">
+              
                 <v-img src="/src/assets/logo.svg" alt="vuetify" contain height="200"></v-img>
-              </a>
+              
               <v-card-text>
                 <v-form>
                   <v-text-field label="Enter your email" name="email" prepend-inner-icon="mdi-email" type="email" class="rounded-0" outlined >

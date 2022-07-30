@@ -6,9 +6,7 @@
               <div class="text-center">
                 <h1 class="mb-2">Register</h1>
               </div>
-              <a href="https://github.com/vuetifyjs/vuetify/releases/tag/v2.6.8" name="https://github.com/vuetifyjs/vuetify/releases/tag/v2.6.8" title="https://github.com/vuetifyjs/vuetify/releases/tag/v2.6.8" target="_blank">
                 <v-img src="/src/assets/logo.svg" alt="vuetify" contain height="200"></v-img>
-              </a>
               <v-card-text>
                 <v-form>
                   <v-text-field label="Enter your name" name="name" prepend-inner-icon="mdi-account" type="text" class="rounded-0" outlined></v-text-field>
